@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Italian"
+  },
+  {
+    "Id": 2,
+    "Name": "Mexican"
+  },
+  {
+    "Id": 3,
+    "Name": "Indian"
+  },
+  {
+    "Id": 4,
+    "Name": "Chinese"
+  }
+]

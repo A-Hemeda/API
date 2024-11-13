@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Italian Chicken Marinade",
+    "Description": "This Italian dressing chicken marinade is a super simple but delicious way to add flavor before grilling.",
+    "Price": 200,
+    "PictureUrl": "images/products/ItalianChickenMarinade.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Chicken Marsala",
+    "Description": "Chicken Marsala is an Italian-style recipe for tender pan-fried chicken breasts in a sweet Marsala wine and mushroom sauce. It's super quick and easy to make for a weeknight dinner AND sophisticated enough for company.",
+    "Price": 150,
+    "PictureUrl": "images/products/ChickenMarsala.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hearty Vegetable Lasagna",
+    "Description": "This hearty, vegetable lasagna is the only lasagna my husband will eat. We love it! Hope you all enjoy it as much as we do.",
+    "Price": 180,
+    "PictureUrl": "images/products/HeartyVegetableLasagna.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Cheesy Vegetable Lasagna",
+    "Description": "A rich, cheesy lasagna loaded with vegetables. You could also omit all veggies except broccoli for a broccoli lasagna.",
+    "Price": 300,
+    "PictureUrl": "images/products/CheesyVegetableLasagna.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Pasta Salad",
+    "Description": "This pasta salad recipe was given to me by a dear friend many years ago, and I've been making it ever since! It's great for barbecues.",
+    "Price": 250,
+    "PictureUrl": "images/products/PastaSalad.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Italian Wedding Soup",
+    "Description": "This lovely Italian wedding soup recipe combines flavorful meatballs with sliced escarole, orzo pasta, and finely chopped carrot. Serve hot, garnished with fresh parsley and extra Parmesan cheese.",
+    "Price": 120,
+    "PictureUrl": "images/products/ItalianWeddingSoup.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Vegetarian Refried Beans",
+    "Description": "Traditional vegetarian and vegan refried beans that taste great with hardly any fat!",
+    "Price": 10,
+    "PictureUrl": "images/products/VegetarianRefriedBeans.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Sweet and Spicy Sausage and Pepper Pasta",
+    "Description": "This is a fabulous meal prep recipe, and the tomatoes and peppers lend a natural sweetness to juxtapose the spicy sauce and sausage.",
+    "Price": 8,
+    "PictureUrl": "images/products/PepperPasta.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Creamy Gochujang Tortellini",
+    "Description": "The popular miso pasta gets a spicy, yet savory addition of gochujang sauce. Certainly food fusion, and ultimately comfort food!",
+    "Price": 15,
+    "PictureUrl": "images/products/CreamyGochujangTortellini.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Shrimp Egg Foo Young",
+    "Description": "This egg foo young recipe includes a delicious sauce to put on top of the patties. This is a very special recipe acquired when I worked at a Chinese restaurant to pay for my red 1966 VW bug when in high school! The recipe card is tattered and spotted now, but the dish is the best egg foo young I have ever had. To serve, place egg patty over steamed rice and put the sauce on top.",
+    "Price": 18,
+    "PictureUrl": "images/products/ShrimpEggFooYoung.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Congee",
+    "Description": "Congee, a Chinese rice porridge, will make any cold winter's day warm and welcoming. This recipe, also known as 'jook', was inspired by my Grandmother's frequent preparation of this dish. You will enjoy congee's unique velvety and savory taste.",
+    "Price": 15,
+    "PictureUrl": "images/products/Congee.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Haluski - Cabbage and Noodles",
+    "Description": "This haluski recipe is made with buttery egg noodles, fried cabbage, and onions. It's a great, flavorful dish!",
+    "Price": 16,
+    "PictureUrl": "images/products/HaluskiNoodles.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Chicken Teriyaki and Noodles",
+    "Description": "Ditch the take out with this quick chicken teriyaki and noodle dish made with homemade teriyaki sauce!",
+    "Price": 14,
+    "PictureUrl": "images/products/ChickenTeriyakiNoodles.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Kulfi",
+    "Description": "This is a simple but delicious recipe for Kulfi (Indian Ice Cream) that I got from my sister-in-law. I have made this several times, and it always gets rave reviews - even the kids love it! For extra flavor, you could add a few drops of rose water or ground pistachios.",
+    "Price": 250,
+    "PictureUrl": "images/products/Kulfi.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Crispy Vegetable Pakoras",
+    "Description": "These vegetable pakoras are delicious. You'll love this recipe if you've ever had Japanese tempura-coated veggies. These pakoras are similar, but the spiced batter gives them a unique taste. Serve with chili sauce, mint yogurt sauce, or sweet and sour sauce. Try this recipe with other vegetables, such as sweet potatoes, broccoli, and asparagus.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/CrispyVegetablePakoras.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Vegetarian Korma",
+    "Description": "This vegetable korma recipe is an easy vegetarian curry. It's rich, creamy, mildly spiced, and extremely flavorful. Serve with naan and rice.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/VegetarianKorma.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Tandoori Chicken",
+    "Description": "Try this authentic tandoori chicken that's marinated in yogurt and spices, then cooked on the grill instead of a clay oven so you can make it at home. Serve with long-grain basmati rice, grilled veggies, roasted corn on the cob, and a cucumber salad.",
+    "Price": 150,
+    "PictureUrl": "images/products/TandooriChicken.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Indian Chicken Tikka Masala",
+    "Description": "This Indian chicken tikka masala is an easy but flavorful version of everyone's favorite mild-medium curry! Serve with naan bread and mango chutney. Garnish with additional cilantro leaves.",
+    "Price": 180,
+    "PictureUrl": "images/products/ChickenTikkaMasala.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  }
+]
