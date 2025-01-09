@@ -9,7 +9,6 @@ It is designed to facilitate seamless communication between the client and serve
 providing a reliable and efficient way to handle data interactions.
 This API serves as the backbone, allowing for easy integration and scalability.
 
-
 ### Key Features
 
 RESTful Architecture: Adheres to REST principles, ensuring stateless communication and resource-based interactions.
@@ -19,4 +18,3 @@ Data Validation: Employs comprehensive validation mechanisms to ensure data inte
 Error Handling: Provides meaningful error messages and HTTP status codes to facilitate easier debugging and user experience.
 Documentation: Includes detailed API documentation using Swagger/OpenAPI, making it easy for developers to understand and integrate with the API.
 Unit Testing: Incorporates unit tests to ensure code reliability and maintainability, using frameworks like xUnit or NUnit.
-
