@@ -9,7 +9,6 @@ It is designed to facilitate seamless communication between the client and serve
 providing a reliable and efficient way to handle data interactions.
 This API serves as the backbone, allowing for easy integration and scalability.
 
-
 ### Key Features
 
 RESTful Architecture: Adheres to REST principles, ensuring stateless communication and resource-based interactions.
